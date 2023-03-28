@@ -7,7 +7,7 @@ Projeto realizado durante o curso "HTML e CSS: Praticando HTML/CSS" da Alura, so
 A página consiste em 5 seções contendo imagens, informações e botões de redirecionamento para páginas externas.
 
 # :round_pushpin: Acesso ao Projeto
-Você pode acessar o projeto hospedado no Vercel através deste link:
+Você pode acessar o projeto hospedado no Vercel através deste link: https://alura-plus-two-olive.vercel.app/
 
 # :round_pushpin: Tecnologias utilizadas
 - `HTML`: Criação de listas, âncoras, inserção de imagens, etc.
