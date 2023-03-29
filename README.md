@@ -1,5 +1,5 @@
 # Landing Page Alura-plus
-Projeto realizado durante o curso "HTML e CSS: Praticando HTML/CSS" da Alura, sob orientação da professora Mônica Hillman.
+Projeto realizado durante o curso "HTML e CSS: Praticando HTML/CSS" da Alura, sob orientação da professora [Mônica Hillman](https://github.com/monicahillman).
 
 ![Captura de tela de 2023-03-28 17-09-08](https://user-images.githubusercontent.com/126200406/228355164-e70ee503-d738-4524-8150-bc0ccf7f8af7.png)
 
